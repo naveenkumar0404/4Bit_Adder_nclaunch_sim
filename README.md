@@ -111,6 +111,7 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+![p6](https://github.com/user-attachments/assets/bcee1daa-c212-497e-bebc-e80111d8be49)
 
 ### Fig 7: Nclaunch Window
 
@@ -130,6 +131,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
+![p7](https://github.com/user-attachments/assets/facc7ce2-0d6d-451b-8c7a-62eb35764c52)
 
 ### Fig 8: Compiled database in worklib
 
@@ -154,6 +156,9 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
 
+![p7](https://github.com/user-attachments/assets/facc7ce2-0d6d-451b-8c7a-62eb35764c52)
+
+
 ### Fig 9: Elaboration Launch Option
 
 ## Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
@@ -165,12 +170,17 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator options
+![p9](https://github.com/user-attachments/assets/7867a262-bea3-4d88-ac1e-d53e2046e785)
 
 ### Fig 10: Design Browser window for simulation
 
+![p10](https://github.com/user-attachments/assets/2610b039-8bd5-4089-bc09-a55e11008424)
+
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![p11](https://github.com/user-attachments/assets/ed3bfe46-b10e-4913-ba3f-0953d4c57c58)
 
 ### Fig 12: Simulation Waveform Window
+![p12](https://github.com/user-attachments/assets/3fe78dcf-c0e3-459d-8ef6-39211cc61100)
 
 ### Result:
 
