@@ -99,7 +99,7 @@ or
 
 	Click the cds.lib file and save the file by clicking on Save option 
 
-![Screenshot 2024-10-03 164107](https://github.com/user-attachments/assets/df7662f9-1604-43b3-9c64-b4d701a1cf55)
+![373607269-df7662f9-1604-43b3-9c64-b4d701a1cf55](https://github.com/user-attachments/assets/c6604d25-6b74-4b97-8cca-cb6468e0577b)
 
 
 
