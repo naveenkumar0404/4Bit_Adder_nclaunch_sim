@@ -99,8 +99,8 @@ or
 
 	Click the cds.lib file and save the file by clicking on Save option 
 
-![373607269-df7662f9-1604-43b3-9c64-b4d701a1cf55](https://github.com/user-attachments/assets/c6604d25-6b74-4b97-8cca-cb6468e0577b)
 
+![p4](https://github.com/user-attachments/assets/d39985bd-efea-43c0-bb5f-13d1772c5eec)
 
 
 ### Fig 5:cds.lib file Creation
