@@ -128,8 +128,7 @@ or
 
 
 ### Fig 7: Nclaunch Window
-![Screenshot 2024-10-03 164140](https://github.com/user-attachments/assets/65594e35-66b1-4bab-a1a2-653e589b6ab2)
-
+![373486283-65594e35-66b1-4bab-a1a2-653e589b6ab2](https://github.com/user-attachments/assets/c92d049a-b459-4a64-8606-4b10ad5e5547)
 
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
@@ -175,9 +174,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
 
 ### Fig 9: Elaboration Launch Option
-![Screenshot 2024-10-03 164158](https://github.com/user-attachments/assets/9b1f90a9-8700-4c42-afd0-b53a4c4baf5c)
 
-
+![386923907-9c9cf45d-49e6-4731-94ea-5bdeb48043be](https://github.com/user-attachments/assets/cd8c4b00-1841-4987-b1f1-de36f998eff3)
 
 ## Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
