@@ -127,10 +127,6 @@ or
 
 
 
-### Fig 7: Nclaunch Window
-![373486283-65594e35-66b1-4bab-a1a2-653e589b6ab2](https://github.com/user-attachments/assets/c92d049a-b459-4a64-8606-4b10ad5e5547)
-
-
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
 	Inputs: Supplied are Verilog design and test bench codes 
@@ -148,7 +144,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
-### Fig 8: Compiled database in worklib
+### Fig 7: Compiled database in worklib
 
 	After compilation it will come under worklib you can see in right side window
 
@@ -173,7 +169,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
 
-### Fig 9: Elaboration Launch Option
+### Fig 8: Elaboration Launch Option
 
 ![386923907-9c9cf45d-49e6-4731-94ea-5bdeb48043be](https://github.com/user-attachments/assets/cd8c4b00-1841-4987-b1f1-de36f998eff3)
 
@@ -187,16 +183,16 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 	Steps for simulation – Run the simulation command with simulator options
 
-### Fig 10: Design Browser window for simulation
+### Fig 9: Design Browser window for simulation
 
 ![Screenshot 2024-10-03 164233](https://github.com/user-attachments/assets/178357e0-e7c3-40f3-ba44-aa76eaa9db93)
 
 
-### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+### Fig 10: Launching Simulation Waveform WindowSimulation Waveform Window
 
 ![Screenshot 2024-10-03 164250](https://github.com/user-attachments/assets/34bc2871-e02e-416f-b9fa-b500dc6b0162)
 
-### Fig 12: Simulation Waveform Window
+### Fig 11: Simulation Waveform Window
 ![Screenshot 2024-10-03 164256](https://github.com/user-attachments/assets/4be4c3f9-c221-403b-bd36-924db495656d)
 
 ## Result:
